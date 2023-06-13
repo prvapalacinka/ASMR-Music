@@ -4,3 +4,11 @@
     
 }
 
+.greetingContainer {
+    margin-top: 50px;
+    margin-left: 16px;
+    margin-right: 203px; 
+   & h1 {
+    font-weight: 400;
+   }
+}
