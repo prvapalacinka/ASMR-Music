@@ -1,0 +1,20 @@
+.textTitleBox {
+    font-family: Bubbler One, serif;
+    display: flex;
+    width: 377px;
+    height: 24px;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-left: 18px;
+    margin-right: 19px;
+    margin-top: 32px;
+    margin-bottom: 16px;
+    
+}
+
+.textTitleText {
+    color: #454545;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+}
